@@ -3,4 +3,7 @@
 Vault Dweller sample
 [x] Create Repo and Project Board
 [ ] Write Code
-[ ] Profit
+
+
+
+added first code to project
