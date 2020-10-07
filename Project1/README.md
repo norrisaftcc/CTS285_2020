@@ -5,5 +5,4 @@ Vault Dweller sample
 [ ] Write Code
 
 
-
-added first code to project
+added first code to project.
